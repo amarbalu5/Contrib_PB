@@ -57,7 +57,7 @@ except ImportError:
 
 # Configure Streamlit page
 st.set_page_config(
-    page_title="Multi-Level Contribution Analysis Dashboard",
+    page_title="Contribution Analysis Dashboard",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
